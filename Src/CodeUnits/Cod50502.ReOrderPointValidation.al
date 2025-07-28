@@ -16,4 +16,6 @@ codeunit 50502 "ReOrder Point Validation"
     end;
 
     ///DummyChangeforpull/pushconfirmation
+
+    //DummyChangeforPush/Pull
 }
