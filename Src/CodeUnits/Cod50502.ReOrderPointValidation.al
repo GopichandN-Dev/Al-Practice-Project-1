@@ -14,8 +14,5 @@ codeunit 50502 "ReOrder Point Validation"
         if Rec."Reorder Point" = 0 then
             Rec."Reorder Point" := 10;
     end;
-
-    ///DummyChangeforpull/pushconfirmation
-
     //DummyChangeforPush/Pull
 }
